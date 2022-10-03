@@ -1,0 +1,37 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  width: 50%;
+  height: 50%;
+  max-width: 800px;
+  min-width: 480px;
+  margin: 20rem auto;
+  align-items: center;
+}
+
+
+
+h1 {
+  text-align: center;
+}
+p {
+  font-size: 18px;
+}
+.label {
+  font-size: 20px;
+}
+.form input[type="number"] {
+  width: 200px;
+  padding: 5px;
+}
+
+.form input[type="submit"] {
+  padding: 5px;
+}
+
+.lastResult {
+  color: white;
+  padding: 3px;
+}
